@@ -1,4 +1,4 @@
-### Hi there, I'm Ansh Mittal👋
+### Hi there, I'm Ayush Tripathi👋
 
 [![Github](https://img.shields.io/github/followers/AnshMittal1811?label=Follow&style=social)](https://github.com/AnshMittal1811)   [![Github](https://img.shields.io/github/stars/AnshMittal1811?label=Stars&style=social)](https://github.com/AnshMittal1811)   
 
