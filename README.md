@@ -20,9 +20,6 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=00F72F&background=000000width=900&font=Fira+Code&lines=I+am+a+Computer+Scientist+interested+in+ML%2C+Computer+Vision%2C+and+Language+Processing;I+am+also+a+Software+Developer+and+interested+in+Developing+Web+Applications)](https://git.io/typing-svg) -->
 
-<h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/AnshMittal1811/count.svg" alt="AnshMittal1811" /> </p>
-
 
 ### Actively looking for Machine Learning, Software Development Engineer, Natural Language Processing, AI, and Computer Vision Engineer roles for Summer 2023!!
 
