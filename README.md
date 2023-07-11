@@ -73,67 +73,16 @@
 </p>
 
 ## Work Experience
-1. AI/ML Research Engineer (Co-op) *(KNOW Systems Corp)*
-2. Student Researcher *(USC Integrated Media Systems Center lab)*
-3. Machine Learning Engineer Intern *(Guidewire Software)*
-4. Graduate Research Assistant *(USC Information Sciences Institute)*
-5. Student Research Worker *(USC Marshall School of Business)*
-6. Data Scientist *(Sociometrik Infer Pvt Ltd)*
-7. Research Associate *(Indian Institute of Technology Delhi)*
-8. Web Development Engineer *(UVA Institute)*
-9. Data Science Intern *(Delhi e-Governance Society)*
-
-## Projects and Technologies
-1. [Augmented Reality](https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74)
-<!-- <script src="https://gist.github.com/AnshMittal1811/7bcd4260e8c3aca735e52cde3d3a5d74" />
-
-<br />
-<br />
-<br />
- -->
- 
-<!---  --->
-## GitHub Streak and Stats Card
-<!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  --->
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811)](https://git.io/streak-stats) | ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshMittal1811&count_private=true&layout=compact&include_all_commits=true&show=reviews,discussions_started,discussions_answered) |
-|:------------------------:|:------------------------:|
-
-
-## Leetcode and Top Contribution Repo
-| 🤔Leetcode              | 🔝 Top Contributed Repo  |
-|:------------------------:|:------------------------:|
-| <img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" /> |  ![](https://github-contributor-stats.vercel.app/api?username=AnshMittal1811&limit=5&theme=dark&combine_all_yearly_contributions=true) |
- 
-## 🏆Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnshMittal1811&theme=nord&no-frame=false&no-bg=false&margin-w=4)  
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-
-<!-- ## Last Month and All Time languages
- <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" height="300px"></a>
-<a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" height="300px"></a> 
-| ⏰ Past month | ⌛️ All time | --->
-
-
-## Most Used Language
-| ![Top Langs-Last Month](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&size_weight=0.5&count_weight=0.5&langs_count=12) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=donut-vertical&langs_count=40) |
-| :------------: | :--------------: |
+1. Software Engineer (Co-op) *(One Community Global)*
+2. Student Researcher *(USC Marshall)*
+3. Graduate Research Assistant *(USC Information Sciences Institute)*
+4. Software Engineer Intern *(Iteris)*
+5. Software Developer *(DigiOne Technology)*
+6. Software Developer *(Xceedance Technology)*
 
 
 
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMittal1811&layout=compact&hide_title=true&langs_count=30&&hide=jupyter%20notebook)
 
-<style>
-    .language {
-        transform: scale(calc(1 + var(--scale) * 0.2));
-    }
-</style> -->
-
-
-<!--- ## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> --->
 
 
 
@@ -142,9 +91,9 @@
 
 <!-- 
 ## Contact me
-[website](https://anshm18111996.wixsite.com/website)
-[linkedin](https://linkedin.com/in/mittalansh/)
-[github](https://github.com/AnshMittal1811/)
+[website](http://www.ayushtripathi.com/)
+[linkedin](https://www.linkedin.com/in/ayushtripathi09/)
+[github](https://github.com/ayush0904)
 
 
 ## Top Languages Used and Leetcode Stats
@@ -157,9 +106,3 @@
 </div>
 
 
-## Activity Last Month
-
-[![Ansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnshMittal1811&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshMittal1811&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
--->
