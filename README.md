@@ -70,12 +70,13 @@
 </p>
 
 ## Work Experience
-1. Software Engineer (Co-op) *(One Community Global)*
-2. Student Researcher *(USC Marshall)*
-3. Graduate Research Assistant *(USC Information Sciences Institute)*
-4. Software Engineer Intern *(Iteris)*
-5. Software Developer *(DigiOne Technology)*
-6. Software Developer *(Xceedance Technology)*
+1. Software Developer *(Together We Rise - Foster Love)*
+2. Software Engineer (Co-op) *(One Community Global)*
+3. Student Researcher *(USC Marshall)*
+4. Graduate Research Assistant *(USC Information Sciences Institute)*
+5. Software Engineer Intern *(Iteris)*
+6. Software Developer *(DigiOne Technology)*
+7. Software Developer *(Xceedance Technology)*
 
 
 
