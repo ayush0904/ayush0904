@@ -53,13 +53,10 @@ I enjoy **owning systems end-to-end**: architecture → implementation → deplo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush0904&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0904&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush0904&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0904&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+
 
 ---
 
